@@ -23,6 +23,8 @@ I'm Diego Pardo a Backend Developer.
 .net (C#)
 Git
 SQL-MySql
+Azure (Logi Apps)
+Azure (ServiceBus)
 Nodejs 
 Nestjs
 MongoDB-CosmoDB
@@ -34,29 +36,30 @@ MongoDB
 ```
 #### More stuff about me
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+As a contributor of [coverlet](https://github.com/coverlet-coverage/coverlet) I enjoyed a lot sharing time with people from other countries. 
+
+I like to try diffrente techologies, so I have worked/played with:
+- Azure.
+- DocumentDB
+- Wordpress.
+- AngularJS
+- React.
+- Python.
+- Odoo.
+- Html.
+- CSS.
+- Jasmine.
+- Karma.
+- DynamoDB.
+- Bootstrap.
+- ...
+
 
 ##### What is CoderOne?
 
 CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
-#### Coding Stats
 
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
-
-#### Github Stats
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-</details>
 
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
