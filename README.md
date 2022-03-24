@@ -9,7 +9,7 @@ I'm Diego Pardo a Backend Developer.
 - 👀 Always interested to work in a company with a great working environment. 
 - :computer: Most used IDEs VS/VScode.
 - 🌱 I’m currently working with [@nesjs](https://github.com/nestjs)
-- 📫 How to reach me: dp.lenin@gmail.com / [@dlplenin](https://twitter.com/dlplenin)
+- 📫 How to reach me: dp.lenin@gmail.com / [@dlplenin](https://twitter.com/dlplenin) / (linkedin)(https://www.linkedin.com/in/diego-pardo-581aa1169/)
 - 📹 I have a tiny channel on Youtube [YouTube](https://www.youtube.com/channel/UCzLyEeasCDGj4ARSY5Lhz8w)
 - I use to be Microsoft Certified Professional... Yeah, I know, I need new ones certificates 🤓. 
 - 🗣️Curretly improving my English. I stopped using it for a while, it's a bit 🙈 rusty.
