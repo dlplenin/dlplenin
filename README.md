@@ -2,9 +2,6 @@
 
 I'm Diego Pardo a Backend Developer. 
 
-:mailbox: Reach me out!
-
-
 - 🔭 I’m currently working at nDev
 - 👀 Always interested to work in a company with a great working environment. 
 - :computer: Most used IDEs VS/VScode.
