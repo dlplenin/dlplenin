@@ -39,24 +39,32 @@ MongoDB
 As a contributor of [coverlet](https://github.com/coverlet-coverage/coverlet) I enjoyed a lot sharing time with people from other countries. 
 
 I like to try diffrente techologies, so I have worked/played with:
-| Azure | DocumentDB |
-- Wordpress.
-- AngularJS
-- React.
-- Python.
-- Odoo.
-- Html.
-- CSS.
-- Jasmine.
-- Karma.
-- DynamoDB.
-- Bootstrap.
-- ...
+
+<table>
+  <tr>
+    <td>
+      Azure <br>
+      DocumentDB <br>
+      Wordpress <br>
+      AngularJS <br>
+      React <br>
+      Python <br>
+      Odoo <br>
+    </td>
+    <td>
+      Html <br>
+      CSS <br>
+      Jasmine <br>
+      Karma <br>
+      DynamoDB <br>
+      Bootstrap <br>
+      ...
+    </td>
+  </tr>
+</table>
 
 
-##### What is CoderOne?
 
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 
 
