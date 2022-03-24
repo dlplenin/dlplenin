@@ -20,14 +20,13 @@ I'm Diego Pardo a Backend Developer.
 #### Most Used Languajes/Frameworks/Tools (desc)
 
 ```text
-.net (C#)         15 hrs 41 mins  ████████████████████▓░░░░ 
+.net (C#)
 Git
 SQL-MySql
-Nodejs              1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░ 
-Nestjs     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░
-
+Nodejs 
+Nestjs
 MongoDB-CosmoDB
-.net (Blazor)        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░ 
+.net (Blazor)
 .net (Xamarin)
 TypeScript
 NPM
