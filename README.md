@@ -1,15 +1,3 @@
-- 👋 Hi, I’m Diego
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-dlplenin/dlplenin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 ## Hi I'm Diego 👋
 
 I'm Diego Pardo a Backend Developer. 
@@ -18,6 +6,7 @@ I'm Diego Pardo a Backend Developer.
 
 
 - 🔭 I’m currently working at nDev
+- 👀 Always interested to work in a company with a great working environment. 
 - :computer: Most used IDEs VS/VScode.
 - 🌱 I’m currently working with [@nesjs](https://github.com/nestjs)
 - 📫 How to reach me: dp.lenin@gmail.com / [@dlplenin](https://twitter.com/dlplenin)
@@ -27,17 +16,23 @@ I'm Diego Pardo a Backend Developer.
   - I like to help street dogs 🐕... I have 5 of them 😥🐶.
 - ⚡ Fun fact: I play arcade games.
 
-#### Top Used Languajes/Frameworks
+
+#### Most Used Languajes/Frameworks/Tools (desc)
 
 ```text
 .net (C#)         15 hrs 41 mins  ████████████████████▓░░░░ 
+Git
+SQL-MySql
 Nodejs              1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░ 
 Nestjs     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░
+
+MongoDB-CosmoDB
 .net (Blazor)        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░ 
 .net (Xamarin)
 TypeScript
+NPM
+MongoDB
 ```
-
 
 <details>
 <summary>
