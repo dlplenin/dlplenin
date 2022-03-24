@@ -39,8 +39,7 @@ MongoDB
 As a contributor of [coverlet](https://github.com/coverlet-coverage/coverlet) I enjoyed a lot sharing time with people from other countries. 
 
 I like to try diffrente techologies, so I have worked/played with:
-- Azure.
-- DocumentDB
+| Azure | DocumentDB |
 - Wordpress.
 - AngularJS
 - React.
