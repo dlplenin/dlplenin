@@ -2,18 +2,19 @@
 
 I'm Diego Pardo a Backend Developer. 
 
-- 🔭 I’m currently working at nDev
+- 🔭 I'm currently working at nDev
 - 👀 Always interested to work in a company with a great working environment. 
 - :computer: Most used IDEs VS/VScode.
 - 🌱 I’m currently working with [@nesjs](https://github.com/nestjs)
 - 📫 How to reach me: dp.lenin@gmail.com / [Twitter: @dlplenin](https://twitter.com/dlplenin) / [linkedin](https://www.linkedin.com/in/diego-pardo-581aa1169/)
 - 📹 I have a tiny channel on Youtube [YouTube](https://www.youtube.com/channel/UCzLyEeasCDGj4ARSY5Lhz8w)
-- I use to be Microsoft Certified Professional... Yeah, I know, I need new ones certificates 🤓. 
+- I use to be Microsoft Certified Professional (expired)... Yeah, I know, I need new ones certificates 🤓. 
 - 🗣️Curretly improving my English. I stopped using it for a while, it's a bit 🙈 rusty.
 - 💞️ I’m a voluntier in social work.
   - I like to visit towns where help is needed ⚒️.
-  - I like to help street dogs 🐕... I have 5 of them 😥🐶.
+  - I like to help street dogs... I have 5 of them 😥🐶.
 - ⚡ Fun fact: I play arcade games.
+- ☯️ Curious fact: I'm a Traditional Chinese Medicine student👀.
 
 
 #### Most Used Languajes/Frameworks/Tools (desc)
