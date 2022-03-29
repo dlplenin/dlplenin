@@ -15,7 +15,7 @@ I'm Diego Pardo a Backend Developer.
   - I like to help street dogs... I have 5 of them 😥🐶.
 - ⚡ Fun fact: I play arcade games.
 - ☯️ Curious fact: I'm a Traditional Chinese Medicine student👀.
-
+- 🤙 As a contributor of [coverlet](https://github.com/coverlet-coverage/coverlet) I enjoyed a lot sharing time with people from other countries. 
 
 #### Most Used Languajes/Frameworks/Tools (desc)
 
@@ -51,9 +51,6 @@ THESIS: Braille alphabet's recognition and interpretation using neural network. 
 
 
 #### More stuff about me
-
-- 🤙 As a contributor of [coverlet](https://github.com/coverlet-coverage/coverlet) I enjoyed a lot sharing time with people from other countries. 
-
 - 📖 I like to try diffrente techologies, so I have worked/played with:
 
 <table>
