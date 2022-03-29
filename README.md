@@ -39,7 +39,7 @@ MongoDB
 - MBA, PONTIFICIA UNIVERSIDAD CATÓLICA DEL ECUADOR, QUITO-ECUADOR, 04/22/2016
 THESIS: Analysis and improvement of the process of adapting clothing at the workshop “El Dedal”, in northern Quito. (Statistical process control, process capability, percentage change)
   - GPA: 9.5 
-  - Achievement: Invitation to explain new student "How to prepare and defense thesis". My professors liked my performance when was my turn😬.
+  - Achievement: Invitation to explain new students "How to prepare and defense thesis". My professors liked my performance when was my turn😬.
 - SYSTEM ENGINEER, UNIVERSIDAD TECNOLÓGICA EQUINOCCIAL, QUITO-ECUADOR, 08/11/2009
 THESIS: Braille alphabet's recognition and interpretation using neural network. (Neural network, Kohonen network)
   - GPA: 9.5 
