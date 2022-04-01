@@ -77,5 +77,3 @@ THESIS: Braille alphabet's recognition and interpretation using neural network. 
 </table>
 
 - I love talking about Organizational Culture and being an active participant.
-- Im not a genius 😂, so I compesante this with hard, honest and loyal work 💪.
-
