@@ -4,18 +4,18 @@ I'm Diego Pardo a Backend Developer.
 
 - 🔭 I'm currently working at nDev
 - 👀 Always interested to work in a company with a great working environment. 
+- 🤙 Tiny contributor of [coverlet](https://github.com/coverlet-coverage/coverlet) I enjoyed a lot sharing time with people from other countries. 
 - :computer: Most used IDEs VS/VScode.
-- 🌱 I’m currently working with [@nesjs](https://github.com/nestjs)
+- 🌱 I’m currently working with [@nesjs](https://github.com/nestjs). After a few years returning to python (some changes v2 vs v3).
 - 📫 How to reach me: dp.lenin@gmail.com / [Twitter: @dlplenin](https://twitter.com/dlplenin) / [linkedin](https://www.linkedin.com/in/diego-pardo-581aa1169/)
 - 📹 I have a tiny channel on Youtube [YouTube](https://www.youtube.com/channel/UCzLyEeasCDGj4ARSY5Lhz8w)
-- I use to be Microsoft Certified Professional (expired)... Yeah, I know, I need new ones certificates 🤓. 
-- 🗣️Curretly improving my English. I stopped using it for a while, it's a bit 🙈 rusty.
+- A few Microsoft certifications, including: MCP since 2014 & the last one AZ-900 🤓. 
+- 🗣️Curretly improving my English conversation skills.
 - 💞️ I’m a voluntier in social work.
   - I like to visit towns where help is needed ⚒️.
   - I like to help street dogs... I have 5 of them 😥🐶.
 - ⚡ Fun fact: I play arcade games.
 - ☯️ Curious fact: I'm a Traditional Chinese Medicine student👀.
-- 🤙 As a contributor of [coverlet](https://github.com/coverlet-coverage/coverlet) I enjoyed a lot sharing time with people from other countries. 
 
 #### Most Used Languajes/Frameworks/Tools (desc)
 
