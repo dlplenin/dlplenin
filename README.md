@@ -4,7 +4,7 @@ I'm Diego Pardo a Backend Developer.
 
 - 🔭 I'm currently working at nDev
 - 👀 Always interested to work in a company with a great working environment. 
-- 🤙 Tiny contributor of [coverlet](https://github.com/coverlet-coverage/coverlet) I enjoyed a lot sharing time with people from other countries. 
+- 🤙 Tiny contributor of [coverlet](https://github.com/coverlet-coverage/coverlet). I really enjoy sharing time with people from other countries. 
 - :computer: Most used IDEs VS/VScode.
 - 🌱 I’m currently working with [@nesjs](https://github.com/nestjs). After a few years returning to python (some changes v2 vs v3).
 - 📫 How to reach me: dp.lenin@gmail.com / [Twitter: @dlplenin](https://twitter.com/dlplenin) / [linkedin](https://www.linkedin.com/in/diego-pardo-581aa1169/)
