@@ -6,7 +6,7 @@ I'm Diego Pardo a Backend Developer.
 - 👀 Always interested to work in a company with a great working environment. 
 - 🤙 Tiny contributor of [coverlet](https://github.com/coverlet-coverage/coverlet). I really enjoy sharing time with people from other countries. 
 - :computer: Most used IDEs VS/VScode.
-- 🌱 I’m currently working with [@nesjs](https://github.com/nestjs). After a few years returning to python (some changes v2 vs v3).
+- 🌱 I’m currently working with [@nesjs](https://github.com/nestjs). After a few years returning to python (FastAPI).
 - 📫 How to reach me: dp.lenin@gmail.com / [Twitter: @dlplenin](https://twitter.com/dlplenin) / [linkedin](https://www.linkedin.com/in/diego-pardo-581aa1169/)
 - 📹 I have a tiny channel on Youtube [YouTube](https://www.youtube.com/channel/UCzLyEeasCDGj4ARSY5Lhz8w)
 - A few Microsoft certifications, including: MCP since 2014 & the last one AZ-900 🤓. 
@@ -23,7 +23,7 @@ I'm Diego Pardo a Backend Developer.
 .net (C#)
 Git
 SQL-MySql
-Azure (Logi Apps)
+Azure (Logic Apps)
 Azure (ServiceBus)
 Nodejs 
 Nestjs
@@ -63,6 +63,7 @@ THESIS: Braille alphabet's recognition and interpretation using neural network. 
       React <br>
       Python <br>
       Odoo <br>
+      VB.NET (for VS and Excel macros) <br>
     </td>
     <td>
       Html <br>
@@ -71,8 +72,16 @@ THESIS: Braille alphabet's recognition and interpretation using neural network. 
       Karma <br>
       DynamoDB <br>
       Bootstrap <br>
-      ...
     </td>
+    <td>
+      WCF <br>
+      JQuery <br>
+      FontAwesome <br>
+      Sybase <br>
+      Oracle <br>
+      Reporting Services 2005 <br>
+      ... <br>
+    </td>    
   </tr>
 </table>
 
