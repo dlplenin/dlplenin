@@ -2,6 +2,8 @@
 
 I'm Diego Pardo a Backend Developer. 
 
+Take a look at my Hexagonal Architecture template: https://bit.ly/3cIdvUD
+
 - 🔭 I'm currently working at nDev
 - 👀 Always interested to work in a company with a great working environment. 
 - 🤙 Tiny contributor of [coverlet](https://github.com/coverlet-coverage/coverlet). I really enjoy sharing time with people from other countries. 
