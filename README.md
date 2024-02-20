@@ -8,7 +8,7 @@ Take a look at my Hexagonal Architecture template: https://bit.ly/3cIdvUD
 - 👀 Always interested to work in a company with a great working environment. 
 - 🤙 Tiny contributor of [coverlet](https://github.com/coverlet-coverage/coverlet). I really enjoy sharing time with people from other countries. 
 - :computer: Most used IDEs VS/VScode.
-- 🌱 I’m currently working with [@nesjs](https://github.com/nestjs). After a few years returning to python (FastAPI).
+- 🌱 I’m currently working with [dotnet]([https://github.com/nestjs](https://github.com/dotnet). After a few years returning to [@nesjs](https://github.com/nestjs).
 - 📫 How to reach me: dp.lenin@gmail.com / [Twitter: @dlplenin](https://twitter.com/dlplenin) / [linkedin](https://www.linkedin.com/in/diego-pardo-581aa1169/)
 - 📹 I have a tiny channel on Youtube [YouTube](https://www.youtube.com/channel/UCzLyEeasCDGj4ARSY5Lhz8w)
 - A few Microsoft certifications, including: MCP since 2014 & the last one AZ-900 🤓. 
